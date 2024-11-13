@@ -1,14 +1,1 @@
-import { Stack } from "expo-router";
-
-export default function NewsLayout() {
-  return (
-    <Stack>
-      <Stack.Screen
-        name="index"
-        options={{
-          headerShown: false,
-        }}
-      />
-    </Stack>
-  );
-}
+export { NewsLayout as default } from "@/src/application/layouts/tabs/news";
