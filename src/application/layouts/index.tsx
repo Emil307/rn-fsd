@@ -1,4 +1,5 @@
 import { Stack } from "expo-router";
+import "@/i18n";
 
 export function RootLayout() {
   return (
@@ -9,6 +10,7 @@ export function RootLayout() {
           headerShown: false,
         }}
       />
+      <Stack.Screen name="+not-found" />
     </Stack>
   );
 }

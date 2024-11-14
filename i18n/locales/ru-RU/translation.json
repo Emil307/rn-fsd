@@ -1,0 +1,15 @@
+{
+  "language": "Язык",
+  "home": {
+    "title": "Главная"
+  },
+  "news": {
+    "title": "Новости"
+  },
+  "chat": {
+    "title": "Чат"
+  },
+  "email": {
+    "title": "E-mail"
+  }
+}

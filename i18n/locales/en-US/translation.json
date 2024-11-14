@@ -1,0 +1,15 @@
+{
+  "language": "Language",
+  "home": {
+    "title": "Home"
+  },
+  "news": {
+    "title": "News"
+  },
+  "chat": {
+    "title": "Chat"
+  },
+  "email": {
+    "title": "E-mail"
+  }
+}

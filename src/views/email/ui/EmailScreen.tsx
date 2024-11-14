@@ -1,9 +1,12 @@
+import { useTranslation } from "react-i18next";
 import { View, Text, StyleSheet } from "react-native";
 
 export default function EmailScreen() {
+  const { t } = useTranslation();
+
   return (
     <View style={styles.container}>
-      <Text>E-mail</Text>
+      <Text>{t("email.title")}</Text>
     </View>
   );
 }
