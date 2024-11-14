@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "first-rn",
-    "slug": "first-rn",
+    "name": "esw-mobile",
+    "slug": "esw-mobile",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
